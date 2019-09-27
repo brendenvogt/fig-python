@@ -1,0 +1,1 @@
+# A python prototype of a config manager for embed devices.
